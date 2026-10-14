@@ -20,3 +20,5 @@ I am a B.Tech Computer Science and Information Technology (CSIT) student at REVA
 
 ## Contact
 - **GitHub:** [Vignesh12-code](https://github.com/Vignesh12-code)
+## Activity 4
+This section was added on the add-projects-section branch to practise Git branching and pull requests.
